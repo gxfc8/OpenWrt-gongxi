@@ -1,4 +1,4 @@
-#linksys WRT1900ACS v2
+#WRT1900ACSV2
 CONFIG_TARGET_mvebu=y
 CONFIG_TARGET_mvebu_cortexa9=y
 CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1900acs=y
