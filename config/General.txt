@@ -1,2 +1,0 @@
-#增加组件
-CONFIG_PACKAGE_ipv6helper=y
